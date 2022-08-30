@@ -1,0 +1,19 @@
+{
+	"name": "xiaxiao002/aftership-tracking",
+	"description": "",
+	"keywords": [
+		"wordpress",
+		"plugin"
+	],
+	"homepage":"https://github.com/xiaxiao002/aftership-tracking",
+	"authors": [
+		{
+		"name": "aftership-tracking",
+		"homepage":"https://eileenlue.com"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">5.6"
+	}
+}
